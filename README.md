@@ -262,7 +262,7 @@ Maintenance
 
 📧 Email: siddharthagupta@outlook.in
 
-🌐 Portfolio: https://docs.google.com/document/d/1EhrHQewHzKz--V_jd4nHDTqR6eis_jR1tjCbOVXzd5Y/edit?usp=sharing
+🌐 Portfolio: https://shorturl.at/63Gk3
 
 💼 LinkedIn: https://www.linkedin.com/in/siddharthagupta17/
 
