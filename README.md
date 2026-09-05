@@ -249,11 +249,11 @@ Maintenance
 > Enable GitHub stats by replacing **IAMSIDDHARTHAGUPTA**
 
 ```md
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IAMSIDDHARTHAGUPTA&show_icons=true&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IAMSIDDHARTHAGUPTA&layout=compact&theme=github_dark)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=IAMSIDDHARTHAGUPTA&theme=github-dark)
 ```
 
 ---
