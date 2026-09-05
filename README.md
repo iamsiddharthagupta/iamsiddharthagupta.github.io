@@ -93,12 +93,13 @@ I enjoy solving real-world business problems through clean architecture, maintai
 
 ---
 
-## 📦 Inventory Management System
+## 📦 Order Management System - Logistics
 
 **Laravel**
 
 ### Features
 
+- Order Management
 - Stock Management
 - Barcode Support
 - Purchase Orders
@@ -237,7 +238,6 @@ Maintenance
 
 - Docker
 - Redis
-- Queue Jobs
 - Laravel Octane
 - AWS
 - CI/CD Pipelines
@@ -246,7 +246,7 @@ Maintenance
 
 # 📈 GitHub Stats
 
-> Enable GitHub stats by replacing **YOUR_GITHUB_USERNAME**
+> Enable GitHub stats by replacing **IAMSIDDHARTHAGUPTA**
 
 ```md
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark)
@@ -260,13 +260,13 @@ Maintenance
 
 # 📫 Let's Connect
 
-📧 Email: your@email.com
+📧 Email: siddharthagupta@outlook.in
 
-🌐 Portfolio: https://yourwebsite.com
+🌐 Portfolio: https://docs.google.com/document/d/1EhrHQewHzKz--V_jd4nHDTqR6eis_jR1tjCbOVXzd5Y/edit?usp=sharing
 
-💼 LinkedIn: https://linkedin.com/in/yourprofile
+💼 LinkedIn: https://www.linkedin.com/in/siddharthagupta17/
 
-🐙 GitHub: https://github.com/YOUR_GITHUB_USERNAME
+🐙 GitHub: https://github.com/iamsiddharthagupta
 
 ---
 
