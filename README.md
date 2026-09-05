@@ -8,7 +8,7 @@ I build secure, scalable, and high-performance web applications using **Laravel*
 
 ## 💼 About Me
 
-I'm a freelance PHP developer with experience developing custom business applications, admin dashboards, APIs, CRM systems, ERP modules, and database-driven websites.
+I'm a freelance PHP developer with 10+ years of experience in developing custom business applications, admin dashboards, APIs, CRM systems, ERP modules, and database-driven websites.
 
 I enjoy solving real-world business problems through clean architecture, maintainable code, and efficient database design.
 
